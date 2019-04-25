@@ -1,5 +1,6 @@
 #!bin/bash
 clear;
-echo "Ola so estou tentando @FR!!";
-echo "Oiee so teste1";
+
+echo "Teste AQUI !!";
+echo "Agoraa einnn huhuhuhuh";
 exit;
