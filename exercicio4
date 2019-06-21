@@ -1,0 +1,14 @@
+#!/bin/bash
+echo "primeiro valor"
+read va1
+echo "segundo valor"
+read va2
+
+soma=$(($va1+$va2))
+echo "soma é;$soma"
+subtracao=$(( $va1-$va2))
+echo "subtração é;$subtracao"
+divisao=$(($va1/$va2))
+echo "produto é;$divisao"
+
+
